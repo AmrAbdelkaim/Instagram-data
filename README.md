@@ -1,4 +1,4 @@
-# Instagram-data Analysis
+# Instagram-data Analysis using Python
 
 This project focuses on analyzing Instagram post insights to better understand engagement and growth patterns.
 The dataset includes metrics such as Impressions, Likes, Comments, Shares, Saves, Profile Visits, Follows, Captions and Hashtags.
