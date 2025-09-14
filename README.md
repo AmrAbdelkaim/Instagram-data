@@ -21,6 +21,6 @@ Exploratory Data Analysis (EDA).
 
 Feature Engineering
 
-Visualizations of impressions, engagement, and growth patterns.
+Data Vizualization using Matoltlib and Seaborn
 
 Actionable conclusions and recommendations for Instagram strategy.
